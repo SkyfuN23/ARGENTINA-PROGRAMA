@@ -2,7 +2,7 @@ import com.sun.source.tree.IfTree;
 
 import java.util.Scanner;
 
-//LINK A GITHUB
+//LINK A GITHUB https://github.com/SkyfuN23/ARGENTINA-PROGRAMA
 public class Main {
     public static void main(String[] args) {
 
